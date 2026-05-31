@@ -1,5 +1,21 @@
 {
-  "licencias": {},
+  "licencias": {
+    "Agencia217": {
+      "etiqueta": "Agencia oficial 217",
+      "maxInstalaciones": 3,
+      "idsAprobados": []
+    },
+    "Nombre 1": {
+      "etiqueta": "Subagencia 1",
+      "maxInstalaciones": 1,
+      "idsAprobados": []
+    },
+    "Nombre 2": {
+      "etiqueta": "Subagencia 2",
+      "maxInstalaciones": 1,
+      "idsAprobados": []
+    }
+  },
   "bloqueados": [],
   "killAll": false,
   "message": "Esta copia fue desactivada. Comunicate con la agencia que te la instaló."
